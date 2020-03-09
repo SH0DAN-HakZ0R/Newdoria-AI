@@ -6,4 +6,4 @@ I would not advice any novice programmer to try to run the bots,
 which you can do if you download the scource code. Because it will not work without 
 a config file that you would have to create yourself. You would also have to download all modules,
 which is much easier to do on Linux. However, you can download the scource code if you want to. 
-But it's mostly made for being put up for display.
+But it's mostly on github for being put up for display.
