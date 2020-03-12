@@ -1,4 +1,4 @@
-# Newdoria-Project
+# Newdoria-Bots
 
 Newdoria project contains my two selfmade bots Newdoria and Jewdoria, made in Node.js.
 These are bots made most specifically for trading. And it will be updated when I have time.
