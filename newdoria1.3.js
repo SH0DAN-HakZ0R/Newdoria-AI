@@ -35,7 +35,7 @@ client.on("friendMessage", function(steamID, message) {
         client.chatMessage(steamID, "Hello, this works.");
     }
     else {
-        client.chatMessage(steamID, "Hello, my name is Newdoria and I am an automated bot made by my owner, Dread. Feel free to send me a trade offer. I trade items in team fortress 2. I will accept any offer if it profits me.");
+        client.chatMessage(steamID, "Hello, my name is Newdoria and I am an automated bot made by my owner. Feel free to send me a trade offer. I trade items in team fortress 2 and more. I will accept any offer if it profits me.");
     }
 
 });
