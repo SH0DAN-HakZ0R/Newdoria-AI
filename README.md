@@ -27,7 +27,7 @@ This is much easier to do on Linux.
 Mostly, the code on GitHub
 is for putting up the main bot files for display,
 along with associated coding files.
-and to show how the bot works.
+And of course to show how the bot works.
 
 If you think this is something for you,
 then feel free to send me your 5 cents of
