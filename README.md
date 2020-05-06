@@ -12,10 +12,10 @@ Current functions:
 These are bots made most specifically for trading. And it will be updated when I have time.
 I would not advice any novice programmer to try to run the bots,
 which you can do if you download the scource code. 
-Because 3 key files are config files are encrypted
+Because the 3 key files that are config files are encrypted
 and not for your eyes, 
 unless you're a very special snowflake. 
-Hence, to run the bots, you create: 
+Hence, to run the bots, you can create: 
 
 A: a config file.
 B: modules file by downloading each module.
@@ -27,10 +27,10 @@ This is much easier to do on Linux.
 Mostly, the code on GitHub
 is for putting up the main bot files for display,
 along with associated coding files.
-and how the bot works.
+and to show how the bot works.
 
 If you think this is something for you,
-feel free to send me your 5 cents
+then feel free to send me your 5 cents of
 experience and thoughts.
 
 Sayonaraa ://Dread
