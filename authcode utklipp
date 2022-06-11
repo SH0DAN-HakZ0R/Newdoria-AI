@@ -1,5 +1,0 @@
-authcode line 22
-
-    twoFactorCode: SteamTotp.generateAuthCode(config.sharedSecret)
-
-
