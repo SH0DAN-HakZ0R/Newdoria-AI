@@ -1,0 +1,13 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "jshint": "^2.10.2",
+    "steam-totp": "^2.1.1",
+    "steam-tradeoffer-manager": "^2.10.1",
+    "steam-user": "^4.12.4",
+    "steamcommunity": "^3.41.1",
+    "tf2": "^3.0.1"
+  }
+}
