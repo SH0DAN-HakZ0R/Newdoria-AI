@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "CC-BY-4.0",
   "dependencies": {
-    "jshint": "^2.10.2",
+    "jshint": "^2.13.6",
     "steam-totp": "^2.1.1",
     "steam-tradeoffer-manager": "^2.10.1",
     "steam-user": "^4.12.4",
